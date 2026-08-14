@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://davis-examined-before-breaking.trycloudflare.com/vnc.html
+URL       : https://gis-cabinet-seemed-interstate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 15:58:10
+Created   : 2026-08-14 01:29:42
 =======================================================
