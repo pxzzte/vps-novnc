@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bus-ghz-guys-christina.trycloudflare.com/vnc.html
+URL       : https://forgotten-larry-quality-availability.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 20:21:08
+Created   : 2026-08-19 01:00:16
 =======================================================
