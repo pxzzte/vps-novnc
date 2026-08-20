@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bundle-automated-alternative-mailed.trycloudflare.com/vnc.html
+URL       : https://sapphire-adware-worthy-clay.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 20:24:13
+Created   : 2026-08-20 00:59:49
 =======================================================
