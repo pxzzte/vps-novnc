@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://automated-control-yourself-vanilla.trycloudflare.com/vnc.html
+URL       : https://debate-there-moscow-vat.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-26 01:03:03
+Created   : 2026-08-26 05:31:52
 =======================================================
