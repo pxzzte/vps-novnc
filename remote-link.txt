@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://characters-prints-connection-lol.trycloudflare.com/vnc.html
+URL       : https://walking-destiny-senators-advancement.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-14 10:19:04
+Created   : 2026-09-14 19:45:03
 =======================================================
