@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://paradise-jerusalem-firmware-manual.trycloudflare.com/vnc.html
+URL       : https://targets-placed-major-remembered.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-17 22:39:52
+Created   : 2026-09-18 02:55:11
 =======================================================
