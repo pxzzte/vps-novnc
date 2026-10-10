@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://like-amended-alternatively-excluding.trycloudflare.com/vnc.html
+URL       : https://normally-builds-ate-focus.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 19:08:14
+Created   : 2026-10-10 23:11:20
 =======================================================
