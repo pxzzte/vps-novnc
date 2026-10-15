@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pathology-rights-zones-joan.trycloudflare.com/vnc.html
+URL       : https://diploma-coordination-villa-tasks.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 23:00:00
+Created   : 2026-10-15 02:56:55
 =======================================================
