@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://carrier-improving-brand-routers.trycloudflare.com/vnc.html
+URL       : https://alan-mitchell-contained-affiliated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 22:29:38
+Created   : 2026-10-17 02:47:19
 =======================================================
