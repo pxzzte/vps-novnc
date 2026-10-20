@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vocabulary-bacterial-associate-shopper.trycloudflare.com/vnc.html
+URL       : https://configuration-message-math-afternoon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 18:55:17
+Created   : 2026-10-20 22:56:47
 =======================================================
