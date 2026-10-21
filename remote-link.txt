@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fixes-provided-role-goto.trycloudflare.com/vnc.html
+URL       : https://mileage-collar-stationery-load.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 19:08:20
+Created   : 2026-10-21 23:02:30
 =======================================================
