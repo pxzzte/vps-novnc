@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://postings-wooden-installed-wal.trycloudflare.com/vnc.html
+URL       : https://causes-sister-fluid-citizen.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:21:25
+Created   : 2026-11-02 04:04:55
 =======================================================
